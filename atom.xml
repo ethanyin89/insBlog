@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>InsBlog</title>
+  
+  <subtitle>终生学习 投资 医药 设计 营运管理</subtitle>
+  <link href="/insBlog/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/insBlog/"/>
+  <updated>2018-10-01T15:24:19.848Z</updated>
+  <id>http://yoursite.com/insBlog/</id>
+  
+  <author>
+    <name>Ins</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>utility toke &amp; tokenized securities</title>
+    <link href="http://yoursite.com/insBlog/utility-toke-tokenized-securities.html"/>
+    <id>http://yoursite.com/insBlog/utility-toke-tokenized-securities.html</id>
+    <published>2018-10-01T15:20:36.000Z</published>
+    <updated>2018-10-01T15:24:19.848Z</updated>
+    
+    <content type="html"><![CDATA[<p>###究竟是否值得一直投入otb？</p><p>值得投入，大概有以下集中原因：</p><blockquote><p>otb币是otcbtc平台所使用的加密工具类代币（utility token）。otb币不是一种投资也不是代币类证券（tokenized securities).</p></blockquote><p>####xdite，技术达人，懂growth hacking</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###究竟是否值得一直投入otb？&lt;/p&gt;
+&lt;p&gt;值得投入，大概有以下集中原因：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;otb币是otcbtc平台所使用的加密工具类代币（utility token）。otb币不是一种投资也不是代币类证券（tokenized securit
+      
+    
+    </summary>
+    
+    
+      <category term="blockchain" scheme="http://yoursite.com/insBlog/tags/blockchain/"/>
+    
+  </entry>
+  
+</feed>
